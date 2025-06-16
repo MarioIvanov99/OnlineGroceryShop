@@ -1,0 +1,12 @@
+[
+  { "id": "p1", "name": "Coca-Cola", "quantity": 100, "location": { "x": 1, "y": 2 } },
+  { "id": "p2", "name": "Apple", "quantity": 150, "location": { "x": 3, "y": 5 } },
+  { "id": "p3", "name": "Banana", "quantity": 80, "location": { "x": 7, "y": 1 } },
+  { "id": "p4", "name": "Orange Juice", "quantity": 60, "location": { "x": 6, "y": 6 } },
+  { "id": "p5", "name": "Water Bottle", "quantity": 200, "location": { "x": 2, "y": 8 } },
+  { "id": "p6", "name": "Bread", "quantity": 90, "location": { "x": 9, "y": 2 } },
+  { "id": "p7", "name": "Milk", "quantity": 120, "location": { "x": 5, "y": 0 } },
+  { "id": "p8", "name": "Eggs", "quantity": 130, "location": { "x": 0, "y": 7 } },
+  { "id": "p9", "name": "Cheese", "quantity": 75, "location": { "x": 4, "y": 4 } },
+  { "id": "p10", "name": "Yogurt", "quantity": 55, "location": { "x": 8, "y": 9 } }
+]
